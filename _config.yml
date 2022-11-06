@@ -43,7 +43,7 @@ footer-links:
   email: 2756629125@qq.com
   facebook:
   flickr:
-  github: 2756629125 
+  github: "2756629125" 
   googleplus: # anything in your profile username that comes after plus.google.com/
   instagram:
   linkedin:
@@ -65,8 +65,8 @@ disqus: # fromendworld
 gitalk:
   clientID: 728a6ea5028397eda70c
   clientSecret: b41d1c9a2226bf750573675dcddaa846837ef51b
-  repo: lhd04yuan.github.io
-  owner: 2756629125
+  repo: 2756629125.github.io/lhd04yuan.github.io
+  owner: "2756629125"
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 #google_analytics: 
