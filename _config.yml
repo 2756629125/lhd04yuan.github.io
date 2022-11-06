@@ -63,8 +63,8 @@ disqus: # fromendworld
 
 # Gitalk
 gitalk:
-  clientID: 3c09345f58ada7fe72b6
-  clientSecret: a624791ec28557266c1050eb9c5e275f1efee433
+  clientID: 728a6ea5028397eda70c
+  clientSecret: b41d1c9a2226bf750573675dcddaa846837ef51b
   repo: lhd04yuan.github.io
   owner: 2756629125
 
